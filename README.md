@@ -124,8 +124,8 @@ The Profile component in FoodShare is responsible for displaying user analytics,
 
 ## Authors
 
-- **Zeeshan Ibrar:** Firebase Auth, Firebase Realtime Database, Googles Map Api (backend)
-- **Abdul Haseeb Alam:** React.js (Frontend)
+- **Rushabh singh:** Firebase Auth, Firebase Realtime Database, Googles Map Api (backend)
+- **vijay suresh:** React.js (Frontend)
 
 ## Contributing
 We welcome contributions from the community! To contribute to the FoodShare project, please follow these guidelines:
